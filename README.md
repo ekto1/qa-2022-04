@@ -6,3 +6,5 @@ This file is  edited twise
 * 2
 * 3
 
+### Installation instructions
+inst on computer
